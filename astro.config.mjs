@@ -4,7 +4,7 @@ import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://TCHINDAJOEL/portfolioJoel.github.io',
+  site: 'https://portfoliojoel.vercel.app/',
   output: "server",
   adapter: netlify()
 });
